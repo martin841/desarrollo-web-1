@@ -337,7 +337,7 @@ document.write(saludo + "<br>"); hola buenos dias todo ok" /se ejecuta con la fu
 // array[x,x,x,x,x,x]
 // for (info of array){document.write(info + "<br">)   }
 
-
+/*probando git*/
 /*PROBLEMA CALCULADORA*/
 
 
