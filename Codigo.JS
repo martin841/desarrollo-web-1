@@ -306,14 +306,27 @@ document.write(saludo + "<br>"); hola buenos dias todo ok" /se ejecuta con la fu
 
 
 
+//arrays asociativos//
+
+let posicion=["posicion1","posicion2","posicion3","array2","posicion5"];
+
+let array2 =["manzana","banana","peras","array3"];
+
+let array3=["acelga","repollo","lechuga","array4"];
+
+
+
+for (asociados in posicion){
+if (asociados = 5 )
+{
+  for(asociados of array3) {
+    document.write(asociados);
+  }
+};
 
 
 
 
 
 
-
-
-
-
-
+}
